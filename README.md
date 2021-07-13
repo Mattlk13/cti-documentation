@@ -6,10 +6,9 @@ This repository is a GitHub Pages site storing non-normative information about t
 
 ## Developing
 
-Setting up a development environment requires a working Ruby environment (for Jekyll)
-and a working Python environment (for running git hooks and validating examples).
+Setting up a development environment requires a working Ruby environment (for Jekyll), and a working Python environment (for running git hooks and validating examples).
 
-The following commmands should help:
+The following commands should help:
 
 ```bash
 gem install bundler
@@ -53,7 +52,6 @@ Initially, the associated TC members have designated one or more persons to serv
 
 **<a id="currentMaintainers">Current Maintainers of this TC Open Repository</a>**
 
- * [Greg Back](mailto:gback@mitre.org); GitHub ID: [https://github.com/gtback](https://github.com/gtback); WWW: [MITRE](https://www.mitre.org)
  * [Chris Lenk](mailto:clenk@mitre.org); GitHub ID: [https://github.com/clenk](https://github.com/clenk); WWW: [MITRE](https://www.mitre.org)
  * [Rich Piazza](mailto:rpiazza@mitre.org); GitHub ID: [https://github.com/rpiazza](https://github.com/rpiazza); WWW: [MITRE](https://www.mitre.org)
  * [Jason Keirstead](mailto:Jason.Keirstead@ca.ibm.com); GitHub ID: [https://github.com/JasonKeirstead](https://github.com/JasonKeirstead); WWW: [IBM](http://www.ibm.com/)
